@@ -1,7 +1,7 @@
 Name: rkdeveloptool
 Version: 1.3.20180731
 Release: 2
-Source0: https://github.com/rockchip-linux/rkdeveloptool/archive/master.tar.gz
+Source0: https://github.com/rockchip-linux/rkdeveloptool/archive/%{name}-master.tar.gz
 Group: Development/Tools
 License: GPLv2
 Summary: Tool for flashing Rockchip devices
