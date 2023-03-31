@@ -1,6 +1,6 @@
 Name: rkdeveloptool
 Version: 1.3.20180731
-Release: 3
+Release: 4
 Source0: https://github.com/rockchip-linux/rkdeveloptool/archive/%{name}-master.tar.gz
 Group: Development/Tools
 License: GPLv2
